@@ -1,19 +1,19 @@
-# Como se tornar um programador melhor
+# Como se tornar melhor em programação
 
 ## Tópicos Gerais
 
 ### Organização:
 
-Trata da organização geral do programador e não apenas do código.
+Trata da organização geral da pessoa e não apenas do código.
 
 Eu sou da opinião de que o trabalho de programação e todas as atividades
-envolvidas são um reflexo da nossa organização mental. Quando o programador se
-torna mais organizado, isso fica visível em suas práticas. Quando as práticas
-se aprimoram, ele também se torna uma pessoa mais organizada.
+envolvidas são um reflexo da nossa organização mental. Quando a pessoa se
+torna mais organizada, isso fica visível em suas práticas. Quando as práticas
+se aprimoram, ela também se torna uma pessoa mais organizada.
 
 Organização facilita o entendimento do código, seja provendo documentação de
 como instalar ou utilizar o software, ou justificando o porquê de certas
-decisões terem sido tomadas. Isso vai ser extremamente importante pra futuros
+decisões terem sido tomadas. Isso vai ser extremamente importante pra
 mantenedores do projeto em alguns anos.
 
 Os itens seguintes são alguns indicadores de organização:
