@@ -11,12 +11,11 @@
 
 ## Tópicos Gerais
 
-### Qualidade de código
-- Entidades com poucas linhas (métodos, classes, funções, etc)
-- Nomes descrevem a intenção
-
 ### Abstração
+- Funções tem apenas um nível de abstração
 - Separação em camadas
+- Passa objetos significativos entre as camadas
+- Visibilidade de método
 
 ### Testes:
 - Unitários
@@ -24,5 +23,5 @@
 - Desempenho
 
 ### Experiência
-- Usa gerenciador de dependencias
+- Usa gerenciador de dependências
 - Não inclui código externo ou gerado no controle de versão
