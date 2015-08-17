@@ -2,7 +2,7 @@
 
 Sumário. Menos de 80 caracteres.
 
-Um ou mais parágrados de descrição. Quantas frases forem necessárias para
+Um ou mais parágrafos de descrição. Quantas frases forem necessárias para
 deixar claro do que se trata o tópico. Ressaltar o que torna esse item
 importante.
 
