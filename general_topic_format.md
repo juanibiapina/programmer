@@ -11,3 +11,6 @@ Lista de itens que ajudam a identificar o tópico:
 - Um item
   - Subitem 1
   - Subitem 2
+
+Ações práticas que podem ser tomadas no dia a dia pra melhorar nesse tópico na
+prática. Incluir livros ou outros materiais de referência.
