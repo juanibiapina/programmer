@@ -11,6 +11,13 @@
 
 ## Tópicos Gerais
 
+### Organização
+- Observar a sua facilidade de achar as coisas como métrica pra necessidade de organização
+- Copiar o README de projetos bons
+
+### Qualidade de código
+- Livro Clean Code
+
 ### Abstração
 - Funções tem apenas um nível de abstração
 - Separação em camadas

@@ -29,6 +29,22 @@ Os itens seguintes são alguns indicadores de organização:
   - Usa um README pra descrever seu software
   - Descreve o porquê, quando necessário
 
+Esse é o [guia de estilo do git que eu
+recomendo](https://github.com/agis-/git-style-guide). É importante tentar
+praticá-lo no seu dia a dia. Algumas práticas são universais (como uma mudança
+lógica por commit), outras podem ser adaptadas às necessidades do time, desde
+que haja um entendimento dos princípios por trás de cada uma.
+
+Uma pessoa uma vez me falou: "Mas você perde muito tempo escrevendo mensagens
+de commit!". Não tenha medo de dedicar bastante tempo às mensagens. Anos
+depois, alguém completamente sem contexto vai precisar ler essa mensagem pra
+entender o que aconteceu, e essa pessoa vai perder muito menos tempo se você
+fizer uma mensagem bem feita. Com o tempo, você também vai aprender a escrever
+as mensagens mais rapidamente. Como tudo, é apenas uma questão de prática. Além
+disso, se uma mensagem está muito difícil de ser escrita, é um indicador de que
+o commit pode não estar bom. Talvez seja o caso de revisar se esse ele está
+fazendo pouca ou muita coisa. Não tenha meda de desfazer e fazer novamente.
+
 ### Qualidade de código
 
 Aspectos práticos de qualidade de código.
