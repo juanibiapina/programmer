@@ -7,9 +7,9 @@
 Trata da organização geral da pessoa e não apenas do código.
 
 Eu sou da opinião de que o trabalho de programação e todas as atividades
-envolvidas são um reflexo da nossa organização mental. Quando a pessoa se
-torna mais organizada, isso fica visível em suas práticas. Quando as práticas
-se aprimoram, ela também se torna uma pessoa mais organizada.
+envolvidas são um reflexo da nossa organização mental. Quando a pessoa se torna
+mais organizada, isso fica visível em suas práticas. Quando as práticas se
+aprimoram, ela também se torna uma pessoa mais organizada.
 
 Organização facilita o entendimento do código, seja provendo documentação de
 como instalar ou utilizar o software, ou justificando o porquê de certas
@@ -59,7 +59,8 @@ Algumas características de código de qualidade:
 - Nenhuma duplicação
 - Não violam a Lei de Demeter
 - Tratamento de erros não polui o código
-- Trata erros significativos, ao invés de situações criadas por outro código ruim
+- Trata erros significativos, ao invés de situações criadas por outro código
+    ruim
 - Nomes
   - Revelam intenção
   - Pronunciáveis
