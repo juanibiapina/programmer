@@ -45,6 +45,16 @@ disso, se uma mensagem está muito difícil de ser escrita, é um indicador de q
 o commit pode não estar bom. Talvez seja o caso de revisar se esse ele está
 fazendo pouca ou muita coisa. Não tenha meda de desfazer e fazer novamente.
 
+Lembre-se sempre de criar um README pra seus projetos. Nele deve ter uma
+descrição do projeto, o que ele faz e qual a motivação, juntamente com um
+pequeno manual de instalação e uso. Uma forma de escrever boa documentação é se
+basear em projetos open source conhecidos. Alguns exemplos de projetos com
+ótimos README:
+
+- [rbenv](https://github.com/sstephenson/rbenv)
+- [simple_form](https://github.com/plataformatec/simple_form)
+
+
 ### Qualidade de código
 
 Aspectos práticos de qualidade de código.
